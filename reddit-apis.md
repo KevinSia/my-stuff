@@ -1,8 +1,3 @@
-$.each($('.usertext a'), function(index, item){ console.log('[' + $(item).text() + '](' + $(item).attr('href') + ')') })
-[reddiquette](http://www.reddit.com/wiki/reddiquette)
-
-[self-promotion](http://www.reddit.com/wiki/selfpromotion)
-
 [Amazon Big Data](https://aws.amazon.com/public-data-sets/)
 
 [Forecast.io](https://developer.forecast.io/)
